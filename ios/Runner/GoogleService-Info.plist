@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>484332269153-qc1bueas7e1ouu63oqi8i9k0r28gj75i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.484332269153-qc1bueas7e1ouu63oqi8i9k0r28gj75i</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBECtSZjT1xW-NCESouhGiz9cGooRpqVtk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>484332269153</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.alemeno</string>
+	<key>PROJECT_ID</key>
+	<string>alemeno-29255</string>
+	<key>STORAGE_BUCKET</key>
+	<string>alemeno-29255.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:484332269153:ios:942f2deb4c50f5ca3ac420</string>
+</dict>
+</plist>
